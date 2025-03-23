@@ -1,0 +1,9 @@
+{
+    "CPU_THRESHOLD": 75.0,
+    "COOLDOWN_PERIOD": 60,
+    "PROJECT_ID": "autoscalling-452906",
+    "ZONE": "us-central1-a",
+    "INSTANCE_GROUP_NAME": "instance-group-vm-scale",
+    "INCREMENT_VM_COUNT": 1
+  }
+  
