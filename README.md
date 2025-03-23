@@ -1,4 +1,4 @@
-# Local_VM_Auto_Scaling# GCP Auto-Scaling with CPU Monitoring
+# GCP Auto-Scaling with CPU Monitoring
 
 This project implements an automatic scaling mechanism that monitors CPU usage and scales up a Google Cloud Platform (GCP) instance group when the CPU utilization exceeds a specified threshold. It uses Python, `psutil` for CPU monitoring, and the Google Cloud Compute API for scaling operations.
 
